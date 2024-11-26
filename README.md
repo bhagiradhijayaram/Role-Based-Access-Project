@@ -79,5 +79,21 @@ Data-Operator ->  username: data-operator, password: operator123
 
 ### previews
 
+
 ![Screenshot (415)](https://github.com/user-attachments/assets/df2398df-775d-428d-b280-0d1a6ad179ae)
+
+![Screenshot (416)](https://github.com/user-attachments/assets/ace5c86d-7ae1-4d35-a424-eeaf82f714f0)
+
+![Screenshot (417)](https://github.com/user-attachments/assets/3d91b703-5a00-469f-9169-567aabf68f86)
+
+![Screenshot (418)](https://github.com/user-attachments/assets/c4ef042a-5c8a-45b0-86d9-f42668d8773e)
+
+![Screenshot (419)](https://github.com/user-attachments/assets/c658874f-9468-4848-9095-72a405a638f3)
+
+![Screenshot (421)](https://github.com/user-attachments/assets/6f6f9fef-bb17-45d7-b0b1-64e89a9a4248)
+
+
+
+
+
 

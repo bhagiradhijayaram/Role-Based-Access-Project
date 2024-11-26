@@ -76,3 +76,8 @@ Admin ->  username: admin, password: admin123
 Accountant ->  username: accountant, password: accountant123
 
 Data-Operator ->  username: data-operator, password: operator123
+
+### previews
+
+![Screenshot (415)](https://github.com/user-attachments/assets/df2398df-775d-428d-b280-0d1a6ad179ae)
+

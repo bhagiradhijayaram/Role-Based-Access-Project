@@ -1,0 +1,34 @@
+
+
+ /* home page style */
+
+.home-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 80vh;
+}
+
+
+/* Navbar page style */
+
+.navbar-container{
+    text-align: center;
+    padding: 30px;
+}
+.nav-item{
+    text-decoration: none;
+    margin: 5px;
+}
+#navLink{
+    color: black;
+}
+
+.user-details-list{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}

@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Role-Based-Access-Project/static/css/main.264db390.css",
+    "main.js": "/Role-Based-Access-Project/static/js/main.7ab4181b.js",
+    "index.html": "/Role-Based-Access-Project/index.html",
+    "main.264db390.css.map": "/Role-Based-Access-Project/static/css/main.264db390.css.map",
+    "main.7ab4181b.js.map": "/Role-Based-Access-Project/static/js/main.7ab4181b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.264db390.css",
+    "static/js/main.7ab4181b.js"
+  ]
+}

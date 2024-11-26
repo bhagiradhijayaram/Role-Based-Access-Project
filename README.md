@@ -72,5 +72,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### role credentials
 
 Admin ->  username: admin, password: admin123
+
 Accountant ->  username: accountant, password: accountant123
+
 Data-Operator ->  username: data-operator, password: operator123
